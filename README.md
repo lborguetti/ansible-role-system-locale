@@ -45,4 +45,4 @@ Author Information
 
 [Luciano Antonio Borguetti Faustino](https://github.com/lborguetti)
 
-[1][http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=language-pack&searchon=names]
+[1]:http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=language-pack&searchon=names
