@@ -13,11 +13,11 @@ Nothing.
 Role Variables
 --------------
 
-        locale_lang: en_US.UTF-8
+        system_locale_lang: en_US.UTF-8
 
 This variable define your locale.
 
-        locale_language_pack: language-pack-en
+        system_locale_language_pack: language-pack-en
 
 This variable define your [language-pack][1] (required for Ubuntu cloud image)
 
@@ -33,7 +33,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: lborguetti.locale, locale_lang: en_US.UTF-8 , locale_language_pack: language-pack-en }
+         - { role: lborguetti.system-locale, system_locale_lang: en_US.UTF-8 , system_locale_language_pack: language-pack-en }
 
 License
 -------
