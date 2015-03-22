@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Luciano Antonio Borguetti Faustino
-  description: Provide system update.
+  description: Provide setting system locale.
   license: GPLv2
   min_ansible_version: 1.0
   platforms:
